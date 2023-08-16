@@ -40,3 +40,17 @@ In this folder or repository, you will get to read all HTML tags, that too with 
     5.mailto link ==> This link use for mail ==> 
         href="mailto:emailfirst?cc=emailsecond&subject=normal message&body=mera bhai kesa hai"
     
+# 7.Table Tag 
+    1.Table Tag ==> thead tag, tbody tag, tr tag, th tag, td tag
+    2.Table Tag ==> full form ==> table head, table body, table row, table head, table data
+    3.Table attribute ==> border="1" ==> Width of the border
+    4.Table attribute2 ==> width="400px" ==> Width of the table
+    5.Table attribute3 ==> cellpadding="20px" ==> padding in the cell
+    6.Table attribute4 ==> cellspacing="10px" ==> space out of the cell
+    7.Table attribute5 ==> bgcolor="red" ==> background color
+    8.Table attribute6 ==> align="center" ==> table in the center, ==> left,right,center 
+    9.td attribute ==> valign="top" ==> vertical align ==> top,middle,bottom
+    10.td attribute2 ==> align="center" ==> text center in the cell, ==> left,right,center
+    11.td attribute3 ==> height="300px" ==> This property not use in the table tag.
+    
+    
