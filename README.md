@@ -36,4 +36,7 @@ In this folder or repository, you will get to read all HTML tags, that too with 
     1.when you click the link button then open the next page or other page , you are use anchor tag in the button.
     2.href attribute ==> hyperlink reference ==> href="link"
     3.target attribute ==> target="_blank"(open new tab), target="_self"(by default)
+    4.internal link ==> href="#bottom" in the a tag ==> name="bottom", name attribute in the a tag
+    5.mailto link ==> This link use for mail ==> 
+        href="mailto:emailfirst?cc=emailsecond&subject=normal message&body=mera bhai kesa hai"
     
