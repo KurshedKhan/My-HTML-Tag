@@ -71,7 +71,7 @@ In this folder or repository, you will get to read all HTML tags, that too with 
 
 # 9.audio tag 
     1.audio tag ==> it tag use for audio.
-    2.audio tag ==> three formate : A.mp3 B.ogg C.wav
+    2.audio tag ==> three formate : A.mp3 B.ogg C.wav ==> your browser support only mp3 formate.
     3.audio attribute ==> neccessary ==> controls
     4.audio attribute ==> loop,muted,autoplay in audio tag
     5.source tag use in audio tag ==> <audio><source src="Devil_320(PagalWorld.com.se).mp3" type="audio/mpeg"/> </audio>
@@ -79,6 +79,29 @@ In this folder or repository, you will get to read all HTML tags, that too with 
     7.audio tag second way ==>  <audio src="Devil_320(PagalWorld.com.se).mp3" controls loop></audio>
 
 # 10.video tag 
-    1.
+    1.video tag ==> it tag use for video.
+    2.video tag ==> three formate : A.mp4 B.webm C.ogg ==> your browser support only mp4 formate.
+    3.video attribute ==> neccessary ==> controls
+    4.video attribute ==> loop,muted,autoplay,height,width in video tag
+    5.source tag use in video tag ==> <video><source src="manisha lilu mosa ji.mp4" type="video/mp4"/> </video>
+    6.video tag ==> <video controls muted autoplay loop><source src="manisha lilu mosa ji.mp4" type="video/mp4"/> </video>
+    7.video tag second way ==>  <video src="manisha lilu mosa ji.mp4" controls height="300px" width="300px" autoplay></video>
+
+# 11.form tag 
+    1.form tag ==> <form> </form>
+    2.label tag ==> use inside the form tag <label> <label>
+    3.label tag ==> it tag use for the conect with input and write simple text.
+    4.label attribute ==> <label for="fname"> </label> ==> for attribute connected input id attribute
+    5.input tag ==> use normal input text <input type="text"/>
+    6.input attribute1 ==> type="text" ==> input normal text.
+    7.inupt attribute2 ==> type="radio" ==> when display two option and select one option then use radio type.
+    8.input attribute3 ==> type="radio" name="gender" ==> it use only one selection.
+    9.input attribute4 ==> placeholder="Enter your name.." ==> by default text before write.
+    10.input attribute5 ==> value="Your Name" ==> it text real print.
+    11.input attribute6 ==> type="password" ==> This attribute use for password.
+    12.input attribute7 ==> type="checkbox" ==> choose for multiple options.
+    13.textarea tag ==> This tag use for address or long information.<textarea>Enter Your Address..</textarea>
+    14.textarea attribute ==> cols="5" ==> width , rows="10" ==> height
+    15.
     
     
