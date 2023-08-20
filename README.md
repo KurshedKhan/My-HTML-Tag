@@ -174,6 +174,9 @@ In this folder or repository, you will get to read all HTML tags, that too with 
     11.font tag ==> <font color="red" size"1 to 7" face="arial,vardana,impact">Hello World..!</font>
                 ==> size => font size min=1,max=7
                 ==> face => font family ==> arial ,vardana,impact.
+
+    12.span tag ==> This tag use for perticular text formatting 
+                ==> <span> Hello World..!</span>
     
 
     
