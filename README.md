@@ -52,5 +52,9 @@ In this folder or repository, you will get to read all HTML tags, that too with 
     9.td attribute ==> valign="top" ==> vertical align ==> top,middle,bottom
     10.td attribute2 ==> align="center" ==> text center in the cell, ==> left,right,center
     11.td attribute3 ==> height="300px" ==> This property not use in the table tag.
-    
+    12.td attribute3 ==> colspan="2" ==> This property use the two column makes one column.
+    13.td attribute4 ==> rowspan="2" ==> This property use the two row makes one row.
+    14.table css Property ==> style="border-collapse: collapse;" ==> marge the all table border.
+    15.tr and th/td ==> tr ==> create a row for a table and th/td => create a column for a table.
+    16.caption tag ==> This tag use for table heading <table> <caption>Student Record</caption> </table>.
     
