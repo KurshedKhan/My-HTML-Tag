@@ -163,6 +163,19 @@ In this folder or repository, you will get to read all HTML tags, that too with 
 
     6.Strikethrough tag ==> <strike> Hello World </strike>
 
-    7.Sub Script tag ==> 
+    7.Sub Script tag ==> H2o formula ==> H<sub>2</sub>o
+
+    8.Super Script tag ==> x2 + y2 = 0 ==> <sup> </sup>tag
+
+    9.Break tag ==> <br> break the line and start then new line.
+
+    10.Non-breaking Space ==> &nbsp; , &#160; ==> space between the words.
+
+    11.font tag ==> <font color="red" size"1 to 7" face="arial,vardana,impact">Hello World..!</font>
+                ==> size => font size min=1,max=7
+                ==> face => font family ==> arial ,vardana,impact.
+    
+
+    
     
     
