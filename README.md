@@ -57,4 +57,28 @@ In this folder or repository, you will get to read all HTML tags, that too with 
     14.table css Property ==> style="border-collapse: collapse;" ==> marge the all table border.
     15.tr and th/td ==> tr ==> create a row for a table and th/td => create a column for a table.
     16.caption tag ==> This tag use for table heading <table> <caption>Student Record</caption> </table>.
+    17.Create a website page use of table tag.
+    18.tfooter tag ==> This tag use for table footer <tfoot> </tfoot> ==> This tag use in bottom.
+
+# 8.iframe tag 
+    1.iframe tag ==> it tag use for the other page or other website in the our page.
+    2.iframe attribute1 ==> src="link the page or website" ==> source
+    3.iframe attribute2 ==> frameborder="1"(by default) ==> 0,1,2,3,4,5
+    4.iframe attribute3 ==> width="200px"
+    5.iframe attribute4 ==> height="300px"
+    6.iframe attribute5 ==> align="left" ==> left,right
+    7.iframe attribute6 ==> title="complate form"
+
+# 9.audio tag 
+    1.audio tag ==> it tag use for audio.
+    2.audio tag ==> three formate : A.mp3 B.ogg C.wav
+    3.audio attribute ==> neccessary ==> controls
+    4.audio attribute ==> loop,muted,autoplay in audio tag
+    5.source tag use in audio tag ==> <audio><source src="Devil_320(PagalWorld.com.se).mp3" type="audio/mpeg"/> </audio>
+    6.audio tag ==> <audio controls muted autoplay loop><source src="Devil_320(PagalWorld.com.se).mp3" type="audio/mpeg"/> </audio>
+    7.audio tag second way ==>  <audio src="Devil_320(PagalWorld.com.se).mp3" controls loop></audio>
+
+# 10.video tag 
+    1.
+    
     
