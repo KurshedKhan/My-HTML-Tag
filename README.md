@@ -141,5 +141,28 @@ In this folder or repository, you will get to read all HTML tags, that too with 
     10.URL ==> <input type="url">
     11.Search ==> <input type="search">
     12.Phone No. ==> <input type="tel"> ==> telephone number
+
+# 13.Text Formating Tag
+    1.Heading tag ==> h1 to h6 heading
+                      <h1> Hello World </h1>
+                      <h2> Hello World </h2>
+                      <h3> Hello World </h3>
+                      <h4> Hello World </h4>
+                      <h5> Hello World </h5>
+                      <h6> Hello World </h6>
+
+    2.Paragraph tag ==> <p>lorem is the best abbrivation for paragraph </p>
+
+    3.Bold tag ==> 1.<b> Hello World </b>
+                   2.<strong> Hello World </strong>
+
+    4.italic tag ==> 1. <i> Hello World </i>
+                     2. <em> Hello World </em>
+
+    5.Underline tag ==> <u> Hello World </u>
+
+    6.Strikethrough tag ==> <strike> Hello World </strike>
+
+    7.Sub Script tag ==> 
     
     
