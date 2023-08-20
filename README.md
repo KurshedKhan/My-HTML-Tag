@@ -119,4 +119,27 @@ In this folder or repository, you will get to read all HTML tags, that too with 
                                     <option value="Duster">
                                 </datalist>
     
+    27.input attribute8 ==> type="file"
+    28.input attribute8.1 ==> <input type="file" accept="image/*"> ==>* use all image formate.
+                              <input type="file" accept="image/.pnj"> ==> use only pnj formate.
+    29.input attribute9 ==> type="submit" value="Save" ==> value attribute use only write text.
+    30.input attribute10 ==> type="reset"
+    31.input attribute11 ==> type="image" src"link of image"
+    32.fieldset tag ==> it tag use inside the form tag. 
+    33.legend tag ==> it tag use with fieldset tag inside the fieldset tag.
+
+# 12.html5 input tag
+    1.Color ==> <input type="color">
+    2.Number ==> <input type="number" min="10" max="800" step="30">
+    3.Range ==> <input type="range" min="10" max="800" step="30">
+    4.Date ==> <input type="date">
+    5.Date and Time ==> <input type="datetime-local">
+    6.Month ==> <input type="month">
+    7.Week ==> <input type="week">
+    8.Time ==> <input type="time">
+    9.Email ==> <input type="email">
+    10.URL ==> <input type="url">
+    11.Search ==> <input type="search">
+    12.Phone No. ==> <input type="tel"> ==> telephone number
+    
     
