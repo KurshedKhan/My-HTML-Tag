@@ -102,6 +102,21 @@ In this folder or repository, you will get to read all HTML tags, that too with 
     12.input attribute7 ==> type="checkbox" ==> choose for multiple options.
     13.textarea tag ==> This tag use for address or long information.<textarea>Enter Your Address..</textarea>
     14.textarea attribute ==> cols="5" ==> width , rows="10" ==> height
-    15.
+    15.select tag ==> it tag use for multiple items option.it is a container.
+    16.option tag ==> <select> <option>item1</option><option>item2</option> </select>
+    17.option attribute ==> selected ==> it attribute use for fixed option display on reload.==> <option selected >
+    18.select attribute ==> size="2" ==> display on 2 option in the multiple options.
+    19.select attribute2 ==> multiple ==> choose the multiple value for use multiple attribute. ==> <select multiple>
+    20.optgroup tag ==> it tag use inside the select tag. optgroup full form ==> option group element.
+    21.optgroup tag ==> <select> <optgroup label="fruit"><option>banana </option></optgroup> </select>
+    22.search option list ==> input and datalist element 
+    23.search option list2 ==> input tag ==> <input list="mymatch">
+    24.search option list3 ==> datalist tag ==> <datalist id="mymatch">
+    25.search option list4 ==> option tag ==> <option value="item1">
+    26.search option create ==> <input list="cars">
+                                <datalist id="cars">
+                                    <option value="Thar">
+                                    <option value="Duster">
+                                </datalist>
     
     
